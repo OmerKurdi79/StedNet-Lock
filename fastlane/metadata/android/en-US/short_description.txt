@@ -1,0 +1,1 @@
+A Shizuku-powered network switcher and profile manager.

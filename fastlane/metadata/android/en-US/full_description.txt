@@ -1,0 +1,9 @@
+StedNet-Lock is a utility application designed to help Android users toggle network modes and manage customized network profiles efficiently.
+
+Using the Shizuku API, the app executes privileged network configuration commands securely without requiring root access.
+
+Key Features:
+* Network Toggle: Switch easily between 5G, 4G, and Auto network modes.
+* Profiles: Create and apply custom network profiles for different SIM cards.
+* Home Widgets: Quick widgets for switching network modes with one tap.
+* Safe & Secure: Fully open-source and uses standard Android APIs via Shizuku.
